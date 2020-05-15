@@ -1,7 +1,7 @@
 # SPOKEO CHROME EXTENSION APPLICATION
 
 ## DEMO EXAMPLES
-1. ![Example 1](./demo.gif)
+![Example 1](./demo.gif)
 
 ## Overview and Description:
     A Full-Stack Google Chrome Extension application designed for Spokeo to assist its clients query their search engine with ease. 
