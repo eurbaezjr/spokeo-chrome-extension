@@ -1,9 +1,9 @@
 # SPOKEO CHROME EXTENSION APPLICATION
 
 ## DEMO EXAMPLES
-1. [Example 1](./demo.gif)
-2. [Example 2](./SpokeoExample1.jpg)
-3. [Example 3](./SpokeoExample2.jpg)
+1. ![Example 1](./demo.gif)
+2. ![Example 2](./SpokeoExample1.jpg)
+3. ![Example 3](./SpokeoExample2.jpg)
 
 ## Overview and Description:
     A Full-Stack Chrome Extension application designed for Spokeo to assist its clients query their reserve lookup search engine. It combines Google Chrome Extension's API, Spokeo's customer search engine and a custom web scraper that uses Puppeteer to analyze static or dynamic web content to find applicable phone numbers and emails to search. The frontend was built with React. Unfortunately, permision was not granted by client to share propietary source code.
