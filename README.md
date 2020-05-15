@@ -4,11 +4,11 @@
 ![Example 1](./demo.gif)
 
 ## Overview and Description:
-A Full-Stack Google Chrome Extension application designed for Spokeo to assist its clients query their search engine with ease. 
-
-It combines Chrome Extension's API, Spokeo's customer search engine and a custom web scraper that uses Puppeteer to analyze static or dynamic web content to find applicable phone numbers and emails to search. 
-
-The frontend was built with React and custom CSS. Unfortunately, permission was not granted by client to share proprietary source code.
+ A Full-Stack Google Chrome Extension application built for Spokeo. Designed for clients to query Spokeo's search engine programmatically with phone numbers and emails found in the browser's active window. 
+ 
+ It combines Chrome Extension's API, Spokeo's customer search engine, and a custom web scraper that uses Puppeteer to analyze static or dynamic web content to find applicable phone numbers and emails to search. 
+ 
+ The frontend was built with React, Chrome Extension Methods and custom CSS. Unfortunately, permission was not granted by the client to share proprietary source code.
     
 ## Features and Usage:
 
